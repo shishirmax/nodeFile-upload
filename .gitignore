@@ -1,2 +1,6 @@
 #Dependency directories
 node_modules/
+
+#Command to remove node_modules
+#git rm -r --cached node_modules
+#git commit -m "removing node_modules"
